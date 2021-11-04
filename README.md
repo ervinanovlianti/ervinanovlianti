@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ervinanovlianti
 - 👀 I’m interested in web developer
-- 🌱 I’m currently learning HTML + Css, Javascript, PHP Framework, SQL
+- 🌱 I’m interested to learning HTML + CSS, Javascript, PHP with Framework, SQL, React.Js and MongoDb
