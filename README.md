@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @ervinanovlianti
 - 👀 I’m interested in web development
-- 🌱 I’m interested to learning HTML + CSS, Javascript, PHP with Framework Codeigniter & Laravel, SQL, React.Js and MongoDb
+- 🌱 I’m interested to learning frontend dev with HTML + CSS, Javascript with library React.Js, backend dev with PHP Native and Framework Codeigniter & Laravel, Database using MySql & MongoDb 
+- 💻 During my studies at university, I am used to making website-based information system applications, carrying out a series of stages of application creation starting from analysis, database design, building, deploying to online servers and maintenance.
