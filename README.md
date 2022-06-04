@@ -54,6 +54,6 @@ I've been learning code for 3 years at University. I Starter with HTML, CSS, Jav
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/ervinanovlianti/netflix-clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ervinanovlianti&repo=netflix-clone&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&locale=en" /></a> <br>
+<div width="100%" align="center"><a href="https://github.com/ervinanovlianti/netflix-clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ervinanovlianti&repo=netflix-clone&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&locale=en" /></a>
 
 <div width="100%" align="center"><a href="https://github.com/ervinanovlianti/portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ervinanovlianti&repo=portfolio&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&locale=en" /></a></div>
