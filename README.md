@@ -7,7 +7,7 @@ Web Developer | Javascript Dev | PHP Dev | React.js
 I've been learning code for 3 years at University. I Starter with HTML, CSS, JavaScript for Frontend Development and PHP for Backend Development.
 
 * 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [MyPortfolio](http://ervinanovlianti.github.io/portfolio/)
+* 🖥️  See my portfolio at [MyPortfolio](https://ervinanovlianti.com/)
 * ✉️  You can contact me at [ervinanovlianti.036@gmail.com](mailto:ervinanovlianti.036@gmail.com)
 * 🧠  I'm learning React.js and Node.js
 * 🤝  I'm open to collaborating on frontend project with framework boostrap
