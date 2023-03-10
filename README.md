@@ -1,7 +1,7 @@
 Hi 👋 My name is Ervina Novlianti
 =================================
 
-Web Developer | Javascript Dev | PHP Dev | React.js
+Software Developer | PHP | Node.js | Go
 ----------------------------------------
 
 I've been learning code for 3 years at University. I Starter with HTML, CSS, JavaScript for Frontend Development and PHP for Backend Development.
