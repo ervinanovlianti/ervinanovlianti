@@ -1,44 +1,45 @@
-Hi 👋 My name is Ervina Novlianti
-=================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ervina Novlianti
+========================================================================================================================================
 
-Web Developer | PHP | Node.js
-----------------------------------------
+Web Developer | PHP | Backend Node.js
+-------------------------------------
 
-I've been learning code for 3 years at University. I Starter with HTML, CSS, JavaScript for Frontend Development and PHP for Backend Development.
+A final-year student who has 4 years of experience in coding and is skilled in developing learning-based projects with the PHP language. Currently focusing on developing skills as a backend developer with node.js. I am also open to learning new programming languages ​​and technologies updates that can improve my ability to develop applications I have skills in designing, developing, and testing applications well and ensuring the quality of the code produced is high I am ready to collaborate with the team and open to building projects that can have a positive impact on society .
 
 * 🌍  I'm based in Makassar, Indonesia
-* 🖥️  See my portfolio at [MyPortfolio](https://ervinanovlianti.com/)
+* 🖥️  See my portfolio at [MyPortfolio](http://ervinanovlianti.com)
 * ✉️  You can contact me at [ervinanovlianti.036@gmail.com](mailto:ervinanovlianti.036@gmail.com)
-* 🧠  I'm learning Backend Dev with Node.js
-* 🤝  I'm open to collaborating on frontend project with framework boostrap
-* ⚡  I'm Seriously People and happy to learn new things
+* 🧠  I'm learning Node.js
+* 🤝  I'm open to collaborating on interesting project
+* ⚡  I'm like happy to learn new things
+
+<a href="https://www.github.com/ervinanovlianti" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/ervinanovlianti?logo=github&style=for-the-badge&color=14b8a6&labelColor=22272e" /></a>
 
 ### Skills
+
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 </p>
 
 
 ### Socials
 
-<p align="left"> <a href="https://www.facebook.com/vina" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
-  <a href="https://www.github.com/ervinanovlianti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
-  <a href="http://www.instagram.com/ervnanvlnti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-  <a href="https://www.linkedin.com/in/ervina-novlianti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://ervinanovlianti.github.io/portfolio/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/novlianti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
+<p align="left"> <a href="https://www.codesandbox.com/ervina" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/ervinanovlianti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ervnanvlnti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ervina-novlianti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/ervinanovlianti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
@@ -48,12 +49,14 @@ I've been learning code for 3 years at University. I Starter with HTML, CSS, Jav
 
 <a href="http://www.github.com/ervinanovlianti"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ervinanovlianti&stroke=ffffff&background=22272e&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/ervinanovlianti"><img src="https://activity-graph.herokuapp.com/graph?username=ervinanovlianti&bg_color=22272e&color=ffffff&line=14b8a6&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/ervinanovlianti"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ervinanovlianti&bg_color=22272e&color=ffffff&line=14b8a6&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/ervinanovlianti" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ervinanovlianti&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/ervinanovlianti/netflix-clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ervinanovlianti&repo=netflix-clone&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&locale=en" /></a>
+<div width="100%" align="center"><a href="https://github.com/ervinanovlianti/bookself-restful-api" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ervinanovlianti&repo=bookself-restful-api&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/ervinanovlianti/kalkulator-web" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ervinanovlianti&repo=kalkulator-web&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/ervinanovlianti/portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ervinanovlianti&repo=portfolio&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&locale=en" /></a></div>
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/ervinanovlianti/belajar-go-lang" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ervinanovlianti&repo=belajar-go-lang&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/ervinanovlianti/e-commerce-sepatu" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ervinanovlianti&repo=e-commerce-sepatu&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&locale=en" /></a></div>
