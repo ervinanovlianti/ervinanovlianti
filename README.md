@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer | PHP | Backend Node.js
 -------------------------------------
 
-A final-year student who has 4 years of experience in coding and is skilled in developing learning-based projects with the PHP language. Currently focusing on developing skills as a backend developer with node.js. I am also open to learning new programming languages ​​and technologies updates that can improve my ability to develop applications I have skills in designing, developing, and testing applications well and ensuring the quality of the code produced is high I am ready to collaborate with the team and open to building projects that can have a positive impact on society .
+A final-year student with experience in coding and skilled in developing learning-based projects with the PHP language. Currently focusing on developing skills as a backend developer with node.js. I am also open to learning new programming languages ​​and technologies updates that can improve my ability to develop applications I have skills in designing, developing, and testing applications well and ensuring the quality of the code produced is high I am ready to collaborate with the team and open to building projects that can have a positive impact on society .
 
 * 🌍  I'm based in Makassar, Indonesia
 * 🖥️  See my portfolio at [MyPortfolio](http://ervinanovlianti.com)
