@@ -7,7 +7,7 @@ Web Developer | PHP | Backend Node.js
 A final-year student with experience in coding and skilled in developing learning-based projects with the PHP language, currently focusing on developing skills as a backend developer with node.js. I am also open to learning new programming languages ​​and technology updates that can improve my ability to develop applications. I have skills in designing, developing, and testing applications well and ensuring the code quality is high. I am ready to collaborate with the team and am open to building projects that can positively impact society.
 
 * 🌍  I'm based in Makassar, Indonesia
-* 🖥️  See my portfolio at [MyPortfolio](http://ervinanovlianti.com)
+* 🖥️  See my portfolio at [MyPortfolio]([https://ervinanovlianti.github.io/portfolio/]))
 * ✉️  You can contact me at [ervinanovlianti.036@gmail.com](mailto:ervinanovlianti.036@gmail.com)
 * 🧠  I'm learning Node.js
 * 🤝  I'm open to collaborating on interesting project
