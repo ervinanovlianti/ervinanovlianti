@@ -8,7 +8,7 @@ A final-year student with experience in coding and skilled in developing learnin
 
 * 🌍  I'm based in Makassar, Indonesia
 * 🖥️  See my portfolio at [MyPortfolio](https://ervinanovlianti.github.io/portfolio/)
-* ✉️  You can contact me at [ervinanovlianti.036@gmail.com](mailto:ervinanovliantii@gmail.com)
+* ✉️  You can contact me at [ervinanovliantii@gmail.com](mailto:ervinanovliantii@gmail.com)
 * 🧠  I'm learning Node.js
 * 🤝  I'm open to collaborating on interesting project
 * ⚡  I'm like happy to learn new things
