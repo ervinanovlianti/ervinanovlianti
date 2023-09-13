@@ -4,13 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer | PHP | Backend Node.js
 -------------------------------------
 
-A final-year student with experience in coding and skilled in developing learning-based projects with the PHP language, currently focusing on developing skills as a backend developer with node.js. I am also open to learning new programming languages ​​and technology updates that can improve my ability to develop applications. I have skills in designing, developing, and testing applications well and ensuring high code quality. I am ready to collaborate with the team and am open to building projects that can positively impact society.
+A computer graduate with experience in coding and proficiency in developing projects using the PHP language with the Laravel framework. The current focus is to further hone my skills as a backend developer with Node.js. I have a high enthusiasm for learning new programming languages ​​and following the latest technological developments to improve my skills in application development. I have experience developing systems starting from planning, developing/coding,  testing, and maintenance by maintaining code quality standards.
+
+I am enthusiastic about collaborating with the team and open to working on projects that can have a positive impact on society. It's great to meet new people and hear new perspectives, so feel free to contact me
 
 * 🌍  I'm based in Makassar, Indonesia
 * 🖥️  See my portfolio at [MyPortfolio](https://ervinanovlianti.github.io/portfolio/)
 * ✉️  You can contact me at [ervinanovliantii@gmail.com](mailto:ervinanovliantii@gmail.com)
 * 🧠  I'm learning Node.js
-* 🤝  I'm open to collaborating on interesting project
+* 🤝  I'm open to collaborating on an interesting project
 * ⚡  I'm like happy to learn new things
 
 <a href="https://www.github.com/ervinanovlianti" target="_blank" rel="noreferrer"><img
@@ -32,7 +34,6 @@ src="https://img.shields.io/github/followers/ervinanovlianti?logo=github&style=f
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 </p>
 
