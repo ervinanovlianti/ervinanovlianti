@@ -1,7 +1,7 @@
 Hi, My name is Ervina Novlianti
 ========================================================================================================================================
 
-Web Developer | PHP | Backend Node.js
+Web Developer | Backend | PHP | Node.js
 -------------------------------------
 
 A computer graduate with experience in coding and proficiency in developing projects using the PHP language with the Laravel framework. The current focus is to further hone my skills as a backend developer with Node.js. I have a high enthusiasm for learning new programming languages ​​and following the latest technological developments to improve my skills in application development. I have experience developing systems starting from planning, developing/coding,  testing, and maintenance by maintaining code quality standards.
