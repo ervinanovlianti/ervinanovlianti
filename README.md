@@ -8,7 +8,6 @@ A computer graduate with experience in coding and proficiency in developing proj
 
 I am enthusiastic about collaborating with the team and open to working on projects that can have a positive impact on society. It's great to meet new people and hear new perspectives, so feel free to contact me
 
-* 🌍  I'm based in Makassar, Indonesia
 * 🖥️  See my portfolio at [MyPortfolio](https://ervinanovlianti.github.io/portfolio/)
 * ✉️  You can contact me at [ervinanovliantii@gmail.com](mailto:ervinanovliantii@gmail.com)
 * 🧠  I'm learning PHP & Node.js
