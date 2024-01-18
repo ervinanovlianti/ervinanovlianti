@@ -14,7 +14,6 @@ I am enthusiastic about collaborating with the team and open to working on proje
 * 🧠  I'm learning PHP & Node.js
 * 🤝  I'm open to collaborating on an interesting project
 * ⚡  I'm happy to learn new things
-* 📝  I'm documented my journey of learning programming on [Medium](https://medium.com/@ervinanovlianti)
   
 ### Skills
 
