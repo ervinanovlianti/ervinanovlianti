@@ -11,7 +11,7 @@ I am enthusiastic about collaborating with the team and open to working on proje
 * 🖥️  See my portfolio at [MyPortfolio](https://ervinanovlianti.github.io/portfolio/)
 * ✉️  You can contact me at [ervinanovliantii@gmail.com](mailto:ervinanovliantii@gmail.com)
 * 🧠  I'm learning PHP & Node.js
-* 🤝  I'm open to collaborating on an interesting project
+* 🤝  I'm open to collaborating
 * ⚡  I'm happy to learn new things
   
 ### Skills
