@@ -6,7 +6,7 @@ Web Developer | Backend | PHP | Node.js
 
 I am a computer graduate with experience in coding and proficiency in developing projects using PHP with Laravel framework and also learn Node.js to improve my skills as a backend developer. I'm an enthusiast for learning new things ​​and following the latest technological developments to improve skills in website development. I have experience developing systems starting from planning, developing/coding,  testing, and maintenance by maintaining code quality standards.
 
-I'm enthusiastic about collaborating with the team and open to working on projects that can positively impact society. It's great to meet new people and hear new perspectives, so feel free to contact me
+I'm enthusiastic about collaborating with the team and open to working on projects that can positively impact society. It's great to meet new people and hear new perspectives, so feel free to contact me.
 
 * 🖥️  See my portfolio at [MyPortfolio](https://ervinanovlianti.github.io/portfolio/)
 * ✉️  You can contact me at [ervinanovliantii@gmail.com](mailto:ervinanovliantii@gmail.com)
