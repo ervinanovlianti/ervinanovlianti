@@ -16,7 +16,7 @@ I love collaborating with teams, sharing knowledge, and working on projects that
 
 📫 Feel free to reach out:  [ervinanovliantii@gmail.com](mailto:ervinanovliantii@gmail.com)
 
-🌐 Portfolio/Website: [MyPortfolio]https://ervinanovlianti.github.io/portfolio/
+🌐 Portfolio/Website: [MyPortfolio](https://ervinanovlianti.github.io/portfolio)
   
 ### Learn About
 
