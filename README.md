@@ -1,17 +1,22 @@
-Hi, My name is Ervina Novlianti
+Hi there, I'm Ervina Novlianti
 ========================================================================================================================================
 
-Web Developer | Backend | PHP | Node.js
+Full Stack Developer | Backend 
 -------------------------------------
 
-I am a computer graduate with experience in coding and develop systems using PHP with Laravel framework and also learn Node.js to improve my skills as a backend developer. I'm an enthusiast for learning new things ​​and following the latest technological developments to improve skills in website development. I have experience developing systems starting from planning, developing/coding,  testing, and maintenance by maintaining code quality standards.
+I’m a Full Stack Developer passionate about building efficient, scalable, and maintainable web applications. I started my journey as a developer using PHP (Laravel Framework), and over time, I expanded my skill set by learning Node.js and Golang to strengthen my backend development expertise.
 
-I'm enthusiastic about collaborating with the team and open to working on projects that can positively impact society. It's great to meet new people and hear new perspectives, so feel free to contact me at [ervinanovliantii@gmail.com](mailto:ervinanovliantii@gmail.com).
+Currently, I focus on:
 
-* 🖥️  See my portfolio at [MyPortfolio](https://ervinanovlianti.github.io/portfolio/)
-* 🧠  I'm learning PHP & Node.js
-* 🤝  I'm open to collaborating
-* ⚡  I'm happy to learn new things
+- Writing clean, maintainable, and testable code 🧹
+- Improving system performance and scalability ⚡
+- Implementing automated tests for every new feature or improvement 🧪
+
+I love collaborating with teams, sharing knowledge, and working on projects that create a positive impact on society. Always open to discussions, new perspectives, and challenges that push me to grow.
+
+📫 Feel free to reach out:  [ervinanovliantii@gmail.com](mailto:ervinanovliantii@gmail.com)
+
+🌐 Portfolio/Website: [MyPortfolio]https://ervinanovlianti.github.io/portfolio/
   
 ### Learn About
 
@@ -33,4 +38,4 @@ I'm enthusiastic about collaborating with the team and open to working on projec
 
 ### Social Media
 
-<p align="left"> <a href="https://www.codesandbox.com/ervina" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/ervinanovlianti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ervina-novlianti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/ervinanovlianti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/ervina-novlianti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
